@@ -44,7 +44,7 @@ export default function BookList() {
   };
   return (
     <>
-      <div className="d-flex justify-content-between mb-4">
+      <div className="d-flex justify-content-between align-items-center mb-4">
         <div>
           <h1>Books</h1>
           <p className="text-muted">Manage your collection.</p>
